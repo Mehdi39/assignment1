@@ -1,0 +1,51 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    max-width: 1080px;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.top-banner {
+    height: 500px;
+    /* border: solid 1px black; */
+}
+
+.name-color {
+    color: tomato;
+}
+
+.half-width {
+    height: 400px;
+    width: 40%;
+    float: left;
+    margin: 2.5%;
+    /* border: solid 1px red; */
+}
+
+.half-width a {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 123, 70);
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+.half-width p {
+    margin-bottom: 40px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.middle-banner {
+    height: 500px;
+    /* border: solid 1px black; */
+}
