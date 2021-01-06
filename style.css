@@ -1,0 +1,176 @@
+body {
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 35px;
+    margin: 0px;
+}
+
+ul {
+    float: right;
+    list-style: none;
+}
+
+li {
+    list-style: none;
+    float: left;
+    padding-right: 20px;
+    font-size: 24px;
+    color:rgb(66, 66, 66);
+    text-decoration: none;
+}
+.header {
+    padding-top: 20px;
+    height: 80px;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.top-banner {
+    height: 500px;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.name-color {
+    color: tomato;
+}
+
+.half-width {
+    height: 400px;
+    width: 40%;
+    float: left;
+    margin: 2.5%;
+    /* border: solid 1px red; */
+}
+
+.btn-hire-me {
+    text-decoration: none;
+    color: white;
+    background-color: rgb(255, 123, 70);
+    padding: 15px 40px;
+    border-radius: 5px;
+}
+
+.half-width p {
+    margin-bottom: 40px;
+    color: rgb(66, 66, 66);
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.bigger-one {
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.middle-banner {
+    height: 500px;
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.middle-img {
+    margin-top: -100px;
+}
+
+.middle-text {
+    padding-left: 60px;
+}
+
+.bottom-banner {
+    height: 500px;
+    width: 1080px;
+    margin: 0 auto;
+    background-color:rgb(236, 236, 236);
+}
+
+.bottom-section-hero-text {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.one-third {
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+    padding: 2%;
+    background-image: linear-gradient(white, white);
+    border-radius: 8px;
+}
+
+.one-third img {
+    width: 100%;
+} 
+
+
+ .inquiry-container {
+    height: 200px;
+    width: 1080px;
+    padding-top: 90px;
+    margin: 0 auto;
+ }
+
+ .inquiry-div {
+    height: 161px;
+    width: 676px;
+    background-image: url(shapes/one.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+    background-position: center;
+    margin: 20px auto;
+}
+
+.inquiry-div h2 {
+    float: left;
+    margin-top: 52px;
+    color: white;
+    margin-left: 66px;
+    /* color: white;
+    margin: 0px;
+    padding-left: 66px;
+    padding-top: 52px; */
+}
+
+.inquiry-div a {
+    float: right;
+    margin-top: 52px;
+    margin-right: 66px;
+}
+
+.footer-section {
+    height: 200px;
+    width: 1080px;
+    padding-top: 35px;
+    margin: 0 auto;
+}
+
+.footer-div {
+    height: 207px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.footer-div h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.footer-div h4 {
+    text-align: center;
+}
+
+.footer-div img {
+    width: 60px;
+    height: 60px;
+}
